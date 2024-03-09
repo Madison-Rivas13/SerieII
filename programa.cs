@@ -6,4 +6,7 @@ namespace Progra1
 }
 {
     console.writeline("Primer parcial de programación");
+    console.writeline("segundo cambio en rama principal");
 }
+
+
